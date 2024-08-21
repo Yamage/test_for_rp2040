@@ -11,8 +11,7 @@
         "extrakey": true,
         "mousekey": true,
         "nkro": true,
-        "rgb_matrix": false,
-        "pointing_device": true
+        "rgb_matrix": false
     },
     "matrix_pins": {
         "cols": ["GP18", "GP19", "GP20", "GP21", "GP22", "GP26", "GP27", "GP28"],
@@ -32,9 +31,6 @@
                 "matrix_state": true
             }
         }
-    },
-    "layout_aliases": {
-        "LAYOUT_test_for_rp2024": "LAYOUT"
     },
     "layouts": {
         "LAYOUT": {
